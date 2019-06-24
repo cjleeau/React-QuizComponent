@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import QuizQuestion from './QuizQuestion.js'
-import moduleName from './QuizEnd.js'
 import QuizEnd from './QuizEnd.js';
 
 let quizData = require('./quiz_data.json')
